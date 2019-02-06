@@ -1,6 +1,7 @@
 ## Requirements
 ```
 yum install -y maven git
+git clone https://github.com/sbeliakou/hello-war.git
 ```
 
 ## Custom Data
